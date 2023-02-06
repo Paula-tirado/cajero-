@@ -1,0 +1,25 @@
+*{
+    margin:0px;
+    padding: 0px;
+
+}
+body{
+    background-image: url(../cajero_automatico/fondo\ cajero\ 2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    justify-content: center;
+    display: flex;
+    
+}
+.logo{
+    height: 50px;
+}
+/* .loguin{
+   width: 100px;
+   margin: auto;
+   height: 100px;
+   
+} */
+
